@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+
+.controls {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  flex: 1;
+  padding: 5px;
+  cursor: pointer;
+}
+
+pre {
+  background: #f4f4f4;
+  border: 1px solid #ccc;
+  padding: 5px;
+  max-height: 300px;
+  overflow: auto;
+  font-size: 12px;
+}

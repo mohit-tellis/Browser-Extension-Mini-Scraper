@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Mini Scraper",
+  "version": "2.0",
+  "description": "Scrape titles, links, and images from any webpage and view the results in a popup.",
+  "permissions": ["scripting", "activeTab", "clipboardWrite"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
