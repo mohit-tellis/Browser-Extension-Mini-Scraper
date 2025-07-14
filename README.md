@@ -79,3 +79,7 @@ Message passing (content → popup)
 
 JSON handling & clipboard API
 
+👨‍💻 Author
+Mohit Raj
+📧 mohit@tellistechnologies.com
+🔗 GitHub - @mohit-tellis
